@@ -60,7 +60,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshuraiml&show_icons=true&theme=gotham" alt="HimanshuRai" /> 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=himanshuraiml)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=himanshuraiml&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 
 
