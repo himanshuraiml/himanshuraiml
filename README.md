@@ -42,17 +42,10 @@ Hi, I'm [Himanshu Rai!](http://himanshuml.netlify.app/), a passionate self-taugh
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++    1 hr 30 mins    ████████████████████████▓   98.58 % 
-Text   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-```
-<!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/HimanshuRai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
@@ -65,7 +58,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshuraiml&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshuraiml&show_icons=true&theme=gotham" alt="HimanshuRai" />
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=himanshuraiml)](https://github.com/gazf/github-readme-twitter)
 
 
 
