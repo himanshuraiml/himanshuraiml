@@ -48,16 +48,11 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/HimanshuRai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 # Blog posts
+## Mediun
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  6,512 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 489 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+
 
 
 📈 My GitHub Stats
