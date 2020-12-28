@@ -13,7 +13,7 @@
   <img align="left" alt="Himanshu's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=himanshuraiml.himanshuraiml)
 
 <br />
 
@@ -58,7 +58,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshuraiml&show_icons=true&theme=gotham" alt="HimanshuRai" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshuraiml&show_icons=true&theme=gotham" alt="HimanshuRai" /> 
+
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=himanshuraiml)](https://github.com/gazf/github-readme-twitter)
 
 
