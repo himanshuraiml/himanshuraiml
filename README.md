@@ -24,7 +24,7 @@ Hi, I'm [Himanshu Rai!](http://himanshuml.netlify.app/), a passionate self-taugh
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
+- 🌱 I’m currently learning AI, ML and cloud computing; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@himanshuraiml](https://twitter.com/himanshuraiml);
 - 📝[Resume](https://www.linkedin.com/in/himanshuraiml/)
@@ -42,6 +42,10 @@ Hi, I'm [Himanshu Rai!](http://himanshuml.netlify.app/), a passionate self-taugh
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=himanshuraiml&hide_title=true&hide_border=true&langs_count=5)
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
