@@ -50,6 +50,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 # Blog posts
 ## Mediun
 <!-- BLOG-POST-LIST:START -->
+- [Multi Processing and Parallel Processing](https://medium.com/@himanshuraiml/multi-processing-and-parallel-processing-7e9c510ef80?source=rss-69e65822396c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
