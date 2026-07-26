@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dr.%20Himanshu%20Rai&fontSize=42&fontAlignY=32&desc=Assistant%20Professor%20%7C%20Deep%20Learning%20%26%20Cloud%20Computing%20Researcher&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dr.%20Himanshu%20Rai&fontSize=42&fontAlignY=32&desc=Assistant%20Professor%20%7C%20Deep%20Learning%20and%20Cloud%20Computing%20Researcher&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=80&lines=Assistant%20Professor%20@%20SRMIST;Ph.D.%20in%20Computer%20Science%20-%20MIPT;Deep%20Learning%20%26%20Gen%20AI%20Researcher;TinyML%20%26%20Cloud%20Computing%20Pioneer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=80&lines=Assistant%20Professor%20at%20SRMIST;Ph.D.%20in%20Computer%20Science%20-%20MIPT;Deep%20Learning%20and%20Gen%20AI%20Researcher;TinyML%20and%20Cloud%20Computing%20Pioneer" alt="Typing SVG" />
   </a>
 
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=himanshuraiml.himanshuraiml)
