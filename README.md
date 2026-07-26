@@ -4,7 +4,9 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=80&lines=Assistant+Professor+@+SRMIST;Ph.D.+in+Computer+Science+(MIPT);Deep+Learning+%26+Gen+AI+Researcher;TinyML+%26+Cloud+Computing+Pioneer)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=80&lines=Assistant%20Professor%20@%20SRMIST;Ph.D.%20in%20Computer%20Science%20-%20MIPT;Deep%20Learning%20%26%20Gen%20AI%20Researcher;TinyML%20%26%20Cloud%20Computing%20Pioneer" alt="Typing SVG" />
+  </a>
 
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=himanshuraiml.himanshuraiml)
   [![Portfolio](https://img.shields.io/badge/Portfolio-himanshurai.in-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.himanshurai.in)
